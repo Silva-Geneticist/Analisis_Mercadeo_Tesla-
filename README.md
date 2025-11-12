@@ -3,3 +3,4 @@ En este proyecto se busca examinar la expansión del mercado de tesla en un peri
 
 ## Integrantes:
 - Juan E Silva
+- Mariana Uribe
