@@ -3,6 +3,6 @@ En este proyecto se busca examinar la expansión del mercado de tesla en un peri
 
 ## Integrantes:
 - Ramírez Cárdenas Ianis.
-- Juan E. Silva.
+- Silva Arevalo Juan Esteban.
 - Mariana Uribe.
 - . 
