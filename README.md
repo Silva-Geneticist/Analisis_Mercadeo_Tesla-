@@ -5,5 +5,4 @@ En este proyecto se busca examinar la expansión del mercado de tesla en un peri
 - Ramírez Cárdenas Ianis.
 - Rojas Rojas Jean Paul.
 - Silva Arevalo Juan Esteban.
-- Mariana Uribe.
-- . 
+- Uribe Vanegas Mariana.
