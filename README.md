@@ -38,5 +38,5 @@ El conjunto de datos tiene como objetivo principal demostrar el **crecimiento de
 3. **Instalacion De Dependencias:** Ejecuta La primera Celda de codigo. Esta instalara todas las dependencias  y librerias Necesarias que se describen en el Requirements.txt .
 4. **Analisis:** Ejecuta el resto de celdas del notebook. 
 
-## Concluciones:
-1. Tras el análisis realizado con respecto a la variable "Ratio_Envios_Por_Unidad", se infiere que Tesla procura ofrecer una cantidad de vehículos superior a la demanda sin que le genere grandes perdidas para así mantener a todos sus clientes satisfechos.
+## Conclusiones:
+1. Tras el análisis realizado con respecto a la variable `Ratio_Envios_Por_Unidad`, se infiere que Tesla procura ofrecer una cantidad de vehículos superior a la demanda sin que le genere grandes pérdidas para así mantener a todos sus clientes satisfechos.
