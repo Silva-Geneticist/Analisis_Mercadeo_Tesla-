@@ -41,3 +41,4 @@ El conjunto de datos tiene como objetivo principal demostrar el **crecimiento de
 ## Conclusiones:
 1. Tras el análisis realizado con respecto a la variable `Ratio_Envios_Por_Unidad`, se infiere que Tesla procura ofrecer una cantidad de vehículos superior a la demanda sin que le genere grandes pérdidas para así mantener a todos sus clientes satisfechos.
 2. Considerando el límite inferior del rango del precio promedio en dólares (80,000 USD), se deduce que, a pesar de que Tesla tiene una segmentación propia respectiva a la gamma se sigue considerando una marca de lujo, puesto que, en comparación al promedio del mercado, sus `gammas bajas` continúan siendo modelos de gamma alta.
+3. Se considera que Tesla es una marca que no discrimina a sus consumidores según su región, lo que supone una estrategia comercial balanceada, de manera que su distribución es equitativa independientemente del modelo.
