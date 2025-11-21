@@ -39,3 +39,4 @@ El conjunto de datos tiene como objetivo principal demostrar el **crecimiento de
 4. **Analisis:** Ejecuta el resto de celdas del notebook. 
 
 ## Concluciones:
+1. Tras el análisis realizado con respecto a la variable "Ratio_Envios_Por_Unidad", se infiere que Tesla procura ofrecer una cantidad de vehículos superior a la demanda sin que le genere grandes perdidas para así mantener a todos sus clientes satisfechos.
